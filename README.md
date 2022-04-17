@@ -1,20 +1,27 @@
 ## Github Status
-<p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laosanyuan&count_private=true&show_icons=true&layout=compact" alt="一刀" height="180" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=laosanyuan&show_icons=true" alt="一刀"  height="180" />
-</p>
+<div align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=laosanyuan&count_private=true&show_icons=true&layout=compact" alt="一刀" height="160px" />
+	<img src="https://github-readme-stats.vercel.app/api?username=laosanyuan&show_icons=true" alt="一刀"  height="160px" />
+</div>
 
-## Activity
-[![一刀's github activity graph](https://activity-graph.herokuapp.com/graph?username=laosanyuan&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+	<img  src="https://activity-graph.herokuapp.com/graph?username=laosanyuan&theme=github-light" width="750"/>
+</div>
 
 
 ## Repositories
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HuoHuan&theme=buefy" />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=EmailSpider&theme=buefy" />
-</p>
+<div align="center">
+	<a href="https://github.com/laosanyuan/EmailSpider">
+    		<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=EmailSpider&theme=buefy"/>
+	</a>
+	<a href="https://github.com/laosanyuan/HuoHuan">
+		<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HuoHuan&theme=buefy"/>
+    	</a>
+</div>
 
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=algorithm-code-csharp&theme=buefy" />
-</p>
-
+<div align="center">
+    <a align="left" href="https://github.com/laosanyuan/algorithm-code-csharp">
+        <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=algorithm-code-csharp&theme=buefy"/>
+    </a>
+    <img width="375"/>
+</div>
