@@ -24,6 +24,6 @@
         <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=algorithm-code-csharp&theme=buefy"/>
     </a>
     <a href="https://github.com/laosanyuan/dotnet-developer-toolbox">
-	<img width="375" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=dotnet-developer-toolbox&theme=buefy"/>
+	<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=dotnet-developer-toolbox&theme=buefy"/>
     </a>
 </div>
