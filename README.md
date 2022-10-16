@@ -12,13 +12,13 @@
 ## Repositories
 <div align="center">
     <a href="https://github.com/laosanyuan/HuoHuan">
-		<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HuoHuan&theme=buefy"/>
+	<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HuoHuan&theme=buefy"/>
     </a>
-    <!--
-    <a href="https://github.com/laosanyuan/algorithm-code-csharp">
-        <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=algorithm-code-csharp&theme=buefy"/>
+    
+    <a href="https://github.com/Freedom-Money/BlastFurnace">
+        <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Freedom-Money&repo=BlastFurnace&theme=buefy"/>
     </a>
-    -->
+    
 </div>
 
 <!--
