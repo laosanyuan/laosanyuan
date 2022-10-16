@@ -14,11 +14,12 @@
     <a href="https://github.com/laosanyuan/HuoHuan">
 	<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HuoHuan&theme=buefy"/>
     </a>
-    
-    <a href="https://github.com/Freedom-Money/BlastFurnace">
-        <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=Freedom-Money&repo=BlastFurnace&theme=buefy"/>
+    <!--
+    <a href="https://github.com/laosanyuan/WeiboLotteryMachine">
+        <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=WeiboLotteryMachine&theme=buefy"/>
     </a>
-    
+    -->
+    <img width="375"/>
 </div>
 
 <!--
