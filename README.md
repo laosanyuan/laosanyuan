@@ -4,11 +4,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=laosanyuan&show_icons=true" alt="一刀"  height="160px" />
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=laosanyuan&theme=github-light" width="750"/>
-</div>
-
-
 ## Repositories
 <div align="center">
     <a href="https://github.com/laosanyuan/HuoHuan">
