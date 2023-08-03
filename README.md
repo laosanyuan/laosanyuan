@@ -16,7 +16,7 @@
 
 
 <div align="center">
-    <a href="https://github.com/laosanyuan/dotnet-developer-toolbox">
+    <a href="https://github.com/laosanyuan/HamibotRemoteControl">
 	<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HamibotRemoteControl&theme=buefy"/>
     </a>
 	<img width="375"/>
