@@ -19,6 +19,8 @@
     <a href="https://github.com/laosanyuan/HamibotRemoteControl">
 	<img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HamibotRemoteControl&theme=buefy"/>
     </a>
-	<img width="375"/>
+    <a href="https://github.com/laosanyuan/HamibotTrigger">
+        <img width="375" src="https://github-readme-stats.vercel.app/api/pin/?username=laosanyuan&repo=HamibotTrigger&theme=buefy"/>
+    </a>
+	<!--<img width="375"/>-->
 </div>
-
