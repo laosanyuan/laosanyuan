@@ -4,6 +4,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=laosanyuan&show_icons=true" alt="一刀"  height="160px" />
 </div>
 
+<div align="center">
+    <img src="https://wakatime.com/share/@018b6ec1-d460-4537-b4e9-6bb36b3bdb2c/7e954fa2-6c41-4f44-ba96-cf42eeacb2ab.svg" width="700" alt="Wakatime"/>
+</div>
+
 ## Repositories
 <div align="center">
     <a href="https://github.com/laosanyuan/HuoHuan">
