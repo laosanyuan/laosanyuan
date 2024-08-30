@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <img src="https://wakatime.com/share/@018b6ec1-d460-4537-b4e9-6bb36b3bdb2c/7e954fa2-6c41-4f44-ba96-cf42eeacb2ab.svg" width="600" alt="Wakatime"/>
+    <img src="https://wakatime.com/share/@018b6ec1-d460-4537-b4e9-6bb36b3bdb2c/a0048298-4ac8-4192-82d8-d6ea18a7ef1d.svg" width="600" alt="Wakatime"/>
 </div>
 
 ## Repositories
