@@ -20,7 +20,7 @@
 
 - **[HuoHuan](https://github.com/laosanyuan/HuoHuan)** — 微信群二维码抓取工具，299★，WPF + 插件化架构
 - **[HamibotRemoteControl](https://github.com/laosanyuan/HamibotRemoteControl)** — Hamibot 远程控制客户端，37★
-- **[HamibotTrigger](https://github.com/laosanyuan/HamibotTrigger)** — Hamibot 自动触发执行脚本，19 fork
+- **[fans_trunk](https://github.com/laosanyuan/fans_trunk)** — Telegram 频道互推机器人（互推车），Python + SQLite
 - **[DaoLang](https://github.com/laosanyuan/DaoLang)** — .NET 多框架本地化库，Roslyn 源生成器，MIT
 
 ---
