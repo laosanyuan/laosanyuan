@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">一刀 · laosanyuan</title>
+  <title id="title">一刀</title>
   <desc id="desc">个人主页横幅：印章、名字与项目排期网络示意</desc>
 
   <defs>
@@ -37,7 +37,7 @@
 
   <text x="166" y="258"
         font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
-        font-size="11" font-weight="500" letter-spacing="3.5" fill="#6E747C">HANGZHOU · LAOSANYUAN</text>
+        font-size="11" font-weight="500" letter-spacing="3.5" fill="#6E747C">HANGZHOU</text>
 
   <!-- 项目网络示意 -->
   <g stroke-linecap="round">

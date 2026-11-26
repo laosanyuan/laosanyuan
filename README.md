@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" alt="一刀 · laosanyuan" width="100%">
+    <img src="./assets/banner-light.svg" alt="一刀" width="100%">
   </picture>
 </p>
 
-### 一刀 / laosanyuan
+### 一刀
 
 杭州。主要写 C#/.NET，也在做 Flutter、Rust、Python 的跨端产品。
 
@@ -27,7 +27,7 @@
 
 ### 联系
 
-GitHub：[@laosanyuan](https://github.com/laosanyuan) · [Issues](https://github.com/laosanyuan/laosanyuan/issues)
+[Issues](https://github.com/laosanyuan/laosanyuan/issues)
 
 ---
 
@@ -39,13 +39,13 @@ GitHub：[@laosanyuan](https://github.com/laosanyuan) · [Issues](https://github
             srcset="https://github-readme-stats.vercel.app/api?username=laosanyuan&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=F0EFEA&amp;text_color=C9CCD1&amp;icon_color=E4694C">
     <img height="150"
          src="https://github-readme-stats.vercel.app/api?username=laosanyuan&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1F2328&amp;text_color=444A51&amp;icon_color=C8492F"
-         alt="laosanyuan 的 GitHub 统计">
+         alt="GitHub 统计">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)"
             srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=laosanyuan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=F0EFEA&amp;text_color=C9CCD1">
     <img height="150"
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=laosanyuan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1F2328&amp;text_color=444A51"
-         alt="laosanyuan 的语言分布：C#、Dart、Rust、Python">
+         alt="语言分布：C#、Dart、Rust、Python">
   </picture>
 </p>
