@@ -9,10 +9,9 @@
 
 杭州。主要写 C#/.NET，也在做 Flutter、Rust、Python 的跨端产品。
 
-- **现在**：做「寸进」——跨端 PERT 项目排期工具（Flutter / Vue3 / FastAPI / Rust）
-- **近期**：[agent_kindle_board](https://github.com/laosanyuan/agent_kindle_board) · [skills](https://github.com/laosanyuan/skills)
-- **关注**：本地优先、跨端一致性、可验证的工程流程
-- **技术栈**：C# · .NET · Flutter · Dart · Rust · Python · TypeScript · Vue
+技术栈：C# · .NET · Flutter · Dart · Rust · Python · TypeScript · Vue
+
+邮箱：[yhonglai@163.com](mailto:yhonglai@163.com)
 
 ---
 
@@ -22,12 +21,6 @@
 - **[HamibotRemoteControl](https://github.com/laosanyuan/HamibotRemoteControl)** — Hamibot 远程控制客户端，37★
 - **[fans_trunk](https://github.com/laosanyuan/fans_trunk)** — Telegram 频道互推机器人（互推车），Python + SQLite
 - **[DaoLang](https://github.com/laosanyuan/DaoLang)** — .NET 多框架本地化库，Roslyn 源生成器，MIT
-
----
-
-### 联系
-
-[Issues](https://github.com/laosanyuan/laosanyuan/issues)
 
 ---
 
@@ -48,4 +41,13 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=laosanyuan&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=1F2328&amp;text_color=444A51"
          alt="语言分布：C#、Dart、Rust、Python">
   </picture>
+</p>
+
+---
+
+### WakaTime
+
+<p align="center">
+  <img src="https://wakatime.com/share/@018b6ec1-d460-4537-b4e9-6bb36b3bdb2c/56714a1f-c045-4710-b55a-2d965270d716.svg"
+       alt="WakaTime 语言统计" width="600">
 </p>
