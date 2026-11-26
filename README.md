@@ -49,10 +49,7 @@
 
 <p align="center">
   <img src="https://wakatime.com/share/@018b6ec1-d460-4537-b4e9-6bb36b3bdb2c/283b278f-4c48-41a1-b02c-574f0e36ce17.svg"
-       alt="WakaTime 语言统计（全部时间）" width="600">
-</p>
-
-<p align="center">
+       alt="WakaTime 语言统计（全部时间）" width="48%">
   <img src="https://wakatime.com/share/@018b6ec1-d460-4537-b4e9-6bb36b3bdb2c/780306dd-0d5d-4578-b683-8b5ab8487939.svg"
-       alt="WakaTime 语言统计（近 7 天）" width="600">
+       alt="WakaTime 语言统计（近 7 天）" width="48%">
 </p>
