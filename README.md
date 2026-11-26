@@ -51,3 +51,9 @@
   <img src="https://wakatime.com/share/@018b6ec1-d460-4537-b4e9-6bb36b3bdb2c/56714a1f-c045-4710-b55a-2d965270d716.svg"
        alt="WakaTime 语言统计" width="600">
 </p>
+
+<!--START_SECTION:waka-->
+```text
+等待首次自动更新
+```
+<!--END_SECTION:waka-->
